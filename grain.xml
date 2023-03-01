@@ -3,11 +3,11 @@
  <name>tsz_test_package01</name>
  <token/>
  <hidden>false</hidden>
- <version>0.1</version>
+ <version>1.0</version>
  <api-version/>
  <title>Python Library Test </title>
  <doc>This template provides a Python library. text text</doc>
- <doc-url>C:/Users/TszHeyLam/KLayout/salt/tsz_test_package01/doc/readme.html</doc-url>
+ <doc-url>https://github.com/tszheyZPM/tsz_test_package01/blob/master/README.md</doc-url>
  <url/>
  <license>GPLv3</license>
  <author>tszheylam</author>
